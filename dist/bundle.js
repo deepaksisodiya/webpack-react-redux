@@ -60,8 +60,6 @@
 
 	var _reactDom2 = _interopRequireDefault(_reactDom);
 
-	console.log('ok');
-
 	function counter(state, action) {
 	  if (typeof state === 'undefined') {
 	    return 0;
