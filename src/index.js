@@ -2,8 +2,6 @@
  * Created by deepaksisodiya on 15/12/15.
  */
 
-console.log('ok');
-
 
 import React from 'react';
 import ReactDOM from 'react-dom';
